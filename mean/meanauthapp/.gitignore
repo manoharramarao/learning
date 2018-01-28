@@ -6,6 +6,7 @@
 ### MEAN.Anglar Stack ###
 ## Angular ##
 # compiled output
+/client
 /dist
 /tmp
 /angular-src/**/*.js
